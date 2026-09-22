@@ -1,6 +1,6 @@
 # QuickAI
 
-QuickAI is a full-stack AI-powered SaaS platform offering an all-in-one suite of generative tools—from content writing and automated resume analysis to image creation and background removal[cite: 2]. The platform also features an interactive community showcase where users can publish creations and engage through public likes.
+QuickAI is a full-stack AI-powered SaaS platform offering an all-in-one suite of generative tools—from content writing and automated resume analysis to image creation and background removal. The platform also features an interactive community showcase where users can publish creations and engage through public likes.
 
 ---
 
